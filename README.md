@@ -5,7 +5,7 @@ This repository includes codes and dataset for "UTRNet: An Unsupervised Time-Dis
 
 The materials in this repository are only for study and research, **NOT FOR COMMERCIAL USE**.  
 
-If this code is helpful for you, please consider citing: 
+If this code is helpful for you, please consider citing:  
 B. Yang, L. Qin, J. Liu and X. Liu, "UTRNet: An Unsupervised Time-Distance-Guided Convolutional Recurrent Network for Change Detection in Irregularly Collected Images," in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-16, 2022, Art no. 4410516, doi: 10.1109/TGRS.2022.3174009.
 ***
 
