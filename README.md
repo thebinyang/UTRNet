@@ -12,6 +12,9 @@ python train.py
 ### Test
 python test.py  
 
+### WPCD.zip
+provides codes for generating lables
+
 ### Data Download  
 Remote sensing images and ground truth map of nine study scenes:  
 Access from Baidu Cloud  
